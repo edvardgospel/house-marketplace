@@ -79,7 +79,7 @@ const SignUp = () => {
 
                     <Link to='/forgot-password'
                         className='forgotPasswordLink'>
-                        ForgotPassword
+                        Forgot Password
                     </Link>
                     <div className="signUpBar">
                         <p className="signUpText">
